@@ -1,5 +1,5 @@
 Summary:	Removing image distorsions introduced by camera lenses
-Summary(pl.UTF-8):   Usuwanie zniekształceń obrazu wprowadzonych przez obiektyw aparatu
+Summary(pl.UTF-8):	Usuwanie zniekształceń obrazu wprowadzonych przez obiektyw aparatu
 Name:		clens
 Version:	0.2
 Release:	1
