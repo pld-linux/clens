@@ -1,5 +1,5 @@
 Summary:	Removing image distorsions introduced by camera lenses
-Summary(pl):	Usuwanie zniekszta³ceñ obrazu wprowadzonych przez obiektyw aparatu
+Summary(pl.UTF-8):   Usuwanie znieksztaÅ‚ceÅ„ obrazu wprowadzonych przez obiektyw aparatu
 Name:		clens
 Version:	0.2
 Release:	1
@@ -19,12 +19,12 @@ lenses. clens is a Linux port of Thomas Niemann's PTLens for Windows
 (<http://www.epaperpress.com/ptlens/>). Unlike PTLens, clens is a
 command line program.
 
-%description -l pl
-clens s³u¿y do usuwania ze zdjêæ w formacie JPEG zniekszta³ceñ obrazu
+%description -l pl.UTF-8
+clens sÅ‚uÅ¼y do usuwania ze zdjÄ™Ä‡ w formacie JPEG znieksztaÅ‚ceÅ„ obrazu
 wprowadzonych przez obiektyw aparatu. clens to linuksowy port
 windowsowego PTLens autorstwa Thomasa Niemanna
-(<http://www.epaperpress.com/ptlens/>). W przeciwieñstwie do PTLens
-clens jest programem dzia³aj±cym z linii poleceñ.
+(<http://www.epaperpress.com/ptlens/>). W przeciwieÅ„stwie do PTLens
+clens jest programem dziaÅ‚ajÄ…cym z linii poleceÅ„.
 
 %prep
 %setup -q
